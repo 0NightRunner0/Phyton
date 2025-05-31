@@ -1,2 +1,2 @@
-# Phyton
-## Brincando com phyton
+# Python
+## Brincando com python
